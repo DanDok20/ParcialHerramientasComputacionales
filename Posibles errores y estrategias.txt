@@ -1,7 +1,0 @@
-¿Qué tipos de errores se presentaron?
-
-Durante la elaboración del programa no se presentó ningún tipo de error, los errores que pueden ocurrir son: Cuando se ingresan datos que no corresponden a lo pedido, por ejemplo, si le estoy pidiendo la cedula y por error digito una letra, saldrá error (ValueError) y el programa se acaba, de la misma manera si digito cualquier otra cosa que no sea lo que me están pidiendo.
-
-¿Qué estrategias se pueden usar para solucionarlos errores?
-
-Solucionamos el probable error mediante una función que llamaremos cada vez que el usuario tenga que digitar algún dato, de manera que, si este dato digitado se sale del rango ya establecido, le dará la posibilidad de volver a digitar el dato sin ningún tipo de problema hasta que lo haga de forma correcta. Implementar soluciones como estas resultan necesarias para contrarrestar errores humanos y que nuestro programa colapse.
